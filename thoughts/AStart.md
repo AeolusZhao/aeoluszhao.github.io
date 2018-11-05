@@ -11,4 +11,4 @@ I will use this website to record my thoughts, learning experience and maybe som
 
 Ok. Have fun.
 
-[back](././)
+[back](../)

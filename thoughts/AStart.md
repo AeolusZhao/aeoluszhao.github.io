@@ -11,6 +11,4 @@ I will use this website to record my thoughts, learning experience and maybe som
 
 Ok. Have fun.
 
-<form>
-  <input type="button" value="Go back!" onclick="history.back()">
-</form>
+[Back](../.)

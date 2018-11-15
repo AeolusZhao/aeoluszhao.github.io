@@ -13,4 +13,8 @@ The second problem was the globalWorkSize and localWorkSize. The picture I downl
 
 The last one occured in the kernel code. To simplify the kernel for testing, I changed the rotation kernel to only get the global ids of x and y then write exactly the same pixel value to the output pointer. In this case I should get the same image as output. But somehow I only get a black image with the correct resolution. It turned out that I was using CLK_NORMALIZED_COORDS_TRUE in the sampler. And I think this will require a different way of reading the coordination of the pixels(I am not sure yet). But after changing the sampler to exactly the same as the example code, it works.
 
+Original image: ![useful image]({{ site.url }}/assets/ImageRotation_test.bmp)
+Rotated image: ![useful image]({{ site.url }}/assets/ImageRotation_rotatedTest.bmp)
+
+
 [Back](../.)

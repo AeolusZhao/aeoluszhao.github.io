@@ -1,4 +1,4 @@
----
+﻿---
 layout: default
 ---
 ## First OpenCL example -- Image Rotation

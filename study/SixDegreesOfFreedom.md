@@ -10,7 +10,7 @@ Specifically, the body is free to change position as forward/backward (surge), u
 该物体在直角坐标系oxyz中可以有3个平移运动（平动位移）和3个转动（姿态角度）。3个平移运动分别是沿x,y,z轴的平移运动,3个转动分别是绕x,y,z轴的转动。习惯上把上述6个独立运动称做6个自由度。三个平移运动即前后平移(surge)、上下垂直位移（heave）和左右平移(sway)。三个转动即俯仰(pitch)、滚转(roll)、偏航(yaw)。
 
 <p align="center">
-![useful image]({{ site.url }}/assets/6DOF.jpg) <br />
+<img width="460" height="300" src={{ site.url }}/assets/6DOF.jpg> <br />
 Six degrees of freedom from Wikipedia<br />
 </p>
 [Back](../.)

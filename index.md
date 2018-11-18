@@ -5,3 +5,6 @@ layout: default
 
 [First OpenCL example](./opencl/firstOpenClExample.md).
 
+[Six degrees of freedom](./study/SixDegreesOfFreedom.md).
+
+

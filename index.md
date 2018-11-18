@@ -1,10 +1,9 @@
 ---
 layout: default
 ---
-[A Start](./thoughts/AStart.html).
+[Six degrees of freedom](./study/SixDegreesOfFreedom.md). <br />
+[First OpenCL example](./opencl/firstOpenClExample.md). <br />
+[A Start](./thoughts/AStart.html). <br />
 
-[First OpenCL example](./opencl/firstOpenClExample.md).
-
-[Six degrees of freedom](./study/SixDegreesOfFreedom.md).
 
 
